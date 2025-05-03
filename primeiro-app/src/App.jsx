@@ -5,7 +5,7 @@ const App = () => {
 
   const textoDoRotulo = 'Nome:'
   const textoBotao = () => 'Enviar'
-  const onBotaoClicado = () => alert('eu fui clicado')
+  const onBotaoClicado = () => alert('ok, clicado')
 
   return (
     <div style={{margin: 'auto', width: 768, backgroundColor: '#EEE', padding: 12, borderRadius: 8}}>
