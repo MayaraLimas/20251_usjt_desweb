@@ -4,10 +4,8 @@ const App = () => {
   const estilosBotao = {marginTop: 12, paddingTop: 8, paddingBottom: 8, backgroundColor: 'blueviolet', borderRadius: 8, width: '100%', color: 'white', cursor: 'pointer', borderStyle: 'none'}
 
   const textoDoRotulo = 'Nome:'
-
   const textoBotao = () => 'Enviar'
-
-  const onBotaoClicado = () => alert('ok, clicou')
+  const onBotaoClicado = () => alert('eu fui clicado')
 
   return (
     <div style={{margin: 'auto', width: 768, backgroundColor: '#EEE', padding: 12, borderRadius: 8}}>
