@@ -48,3 +48,7 @@ export default App
 // const dobro = n => 2 * n
 // const resultado = dobro(5)
 // oi()
+
+// coluna é para ter uma coluna/linha so pra ela col12
+//como trocar um tipo de funçao
+//
